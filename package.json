@@ -1,7 +1,7 @@
 {
   "name": "google-maps-coordinate-bookmarklet",
   "version": "0.1.0",
-  "description": "Bookmarklet that grabs the coordinate of current Google Maps url.",
+  "description": "Bookmarklet that shows the current Google Maps URL latitude and longitude information.",
   "main": "src/bookmarklet.js",
   "dependencies": {
     "browserify": "~3.38.1",
