@@ -1,0 +1,32 @@
+{
+  "name": "google-maps-coordinate-bookmarklet",
+  "version": "0.1.0",
+  "description": "Bookmarklet that grabs the coordinate of current Google Maps url.",
+  "main": "src/bookmarklet.js",
+  "dependencies": {
+    "browserify": "~3.38.1",
+    "google-maps-coordinate-parser": "^0.1.0",
+    "uglify-js": "^2.4.13",
+    "jsesc": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rafaelrinaldi/google-maps-coordinate-bookmarklet"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "coordinate",
+    "bookmarklet"
+  ],
+  "author": "Rafael Rinaldi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelrinaldi/google-maps-coordinate-bookmarklet/issues"
+  },
+  "homepage": "https://rafaelrinaldi.github.io/google-maps-coordinate-bookmarklet"
+}
