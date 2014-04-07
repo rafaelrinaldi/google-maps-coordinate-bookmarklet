@@ -1,7 +1,7 @@
 # google-maps-coordinate-bookmarklet
 
 Bookmarklet that shows the current Google Maps URL latitude and longitude information.
-Uses [`google-maps-coordinate-parser`](http://github.com/rafaelrinaldi/google-maps-coordinate-parser) to do the job.
+Uses [`google-maps-coordinate-parser`](http://github.com/rafaelrinaldi/google-maps-coordinate-parser) and [`browserify`](https://github.com/substack/node-browserify) to do the job.
 
 ## Usage
 

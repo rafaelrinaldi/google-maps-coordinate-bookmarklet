@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en-us">
 <head>
-  <link href="./favicon.png" rel="shortcut icon">
+  <link rel="icon" href="./favicon.png" type="image/x-icon">
   <style>
     * {
       font-smoothing: antialiased;
